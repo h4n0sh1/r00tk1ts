@@ -1,3 +1,5 @@
+# bld WDK x86 Free Build Environment
+
 !IF 0
 Copyright (C) Microsoft Corporation, 1999 - 2002
 Module Name:
